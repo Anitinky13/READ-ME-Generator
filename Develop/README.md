@@ -1,46 +1,40 @@
-# READ ME generator
+# Professional README generator
   ## Description
-  generates a README
+  By using the command line, the user can type 'node index' to generate questions and input the answers that will generate s README.md file.
    ## Table of Contents (Optional)
   
   If your README is long, add a table of contents to make it easy for users to find what they need.
   
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
+  - [Contributions](#Contributions)
   - [License](#license)
+  - [Tests](#tests)
   
   ## Installation
-  npm install
+  To install dependencies, run the following command:
+  ```
+  npm install, npm require
+  ```
   ## Usage
-  No
- ## Credits
-Feel free to email me about any contribution questions
+  This is a professional plateform, lets be kind and respectful of one another!
+ ## Contributions
+Pull requests are required.
   ## License
   Apache-2.0
-  ## Questions
-  Anitinky13
-Alitvinova1@gmail.com
-
-  
-  ---
-  
-  🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-  
-  ## Badges
-  
-  ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-  
-  Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-  
-  ## Features
-  
-  If your project has a lot of features, list them here.
-  
-  ## How to Contribute
-  
-  If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-  
+  (https://opensource.org/licenses/Apache-2.0)
+  Apache-2.0
+  [Link to Apache-2.0 license](https://opensource.org/licenses/Apache-2.0)
   ## Tests
-  
-  Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+  In order to run tests,use command: 
+  ```
+  npm test
+  ```
+  ## Questions?:raising_hand:
+ 
+### Reach out via:
+ GitHub: Anitinky13
+ Email: ayefanova1@gmail.com
+
+
+ [link to README tutorial video](https://drive.google.com/file/d/13joJ7ZBBbG7kM0vovDrp6i-cSZAUfdQT/view?usp=sharing)
