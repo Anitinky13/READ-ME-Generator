@@ -1,6 +1,6 @@
-# Portfolio Generator
+# READ ME generator
   ## Description
-  Portfolio generator
+  generates a README
    ## Table of Contents (Optional)
   
   If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -11,16 +11,16 @@
   - [License](#license)
   
   ## Installation
-  npm i
+  npm install
   ## Usage
-  generate portfolio
+  No
  ## Credits
-blah blah
+Feel free to email me about any contribution questions
   ## License
-  Apache
+  Apache-2.0
   ## Questions
   Anitinky13
-alitvinova1@example.conm
+Alitvinova1@gmail.com
 
   
   ---
